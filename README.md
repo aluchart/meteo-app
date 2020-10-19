@@ -32,7 +32,7 @@ Code à ajouter
 ### 5. Appel de l'API OpenWeather
 #### API OpenWeather
 - [Documentation](https://openweathermap.org/current)
-- [Météo à Lille?](http://api.openweathermap.org/data/2.5/weather?lang=fr&units=metric&appid=6f31dc7d7b95d52036d29f289ef089b8&q=Lille)
+- [Météo à Lille?](http://api.openweathermap.org/data/2.5/weather?lang=fr&units=metric&appid=API_KEY&q=Lille)
 #### Ajout du bean RestTemplate
 ```java
 @Bean
